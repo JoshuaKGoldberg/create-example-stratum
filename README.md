@@ -24,13 +24,7 @@
 npx create example
 ```
 
-This will create
-
-```ts
-import { greet } from "create-example";
-
-greet("Hello, world! 💖");
-```
+This will prompt you for a few options, create a repository with those options, and populate that repository with a README.md file .
 
 ## Development
 
