@@ -21,8 +21,10 @@
 ## Usage
 
 ```shell
-npm i create-example
+npx create example
 ```
+
+This will create
 
 ```ts
 import { greet } from "create-example";
