@@ -40,10 +40,10 @@ importers:
         specifier: 0.5.0
         version: 0.5.0
       create-fs:
-        specifier: ^0.2.0
+        specifier: 0.2.0
         version: 0.2.0
       create-testers:
-        specifier: ^0.2.0
+        specifier: 0.2.0
         version: 0.2.0(create-fs@0.2.0)(create@0.2.0)
       cspell:
         specifier: 8.17.2
@@ -91,7 +91,7 @@ importers:
         specifier: 0.43.0
         version: 0.43.0
       prettier:
-        specifier: ^3.4.2
+        specifier: 3.4.2
         version: 3.4.2
       prettier-plugin-curly:
         specifier: 0.3.1
